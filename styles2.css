@@ -1,0 +1,21 @@
+* {
+    border: 2px solid #aa1212;
+    background: linear-gradient(#00ff00, #ff00ff);
+
+    box-shadow: 4px 4px 20px black;
+    
+}
+body {
+    background-color: brown;
+    color: orange;
+    text-decoration-color: red;
+    text-shadow: 5px 4px 3px black;
+    background: linear-gradient(#ff00ff, #00ff00);
+    text-align:center;
+
+}
+h1 {
+    
+    margin: 10px auto;
+    max-width: 10em;
+}
