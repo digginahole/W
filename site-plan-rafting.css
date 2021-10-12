@@ -14,6 +14,7 @@ Fonts are separated by a | */
  
   --heading-font: Ubuntu;
   --paragraph-font: Roboto Slab, Roboto Mono, Ubuntu;
+  --heading-font: Ubuntu;
 
   /* these colors below should be chosen from among your palette colors above */
   --headline-color-on-white: #3a4e48;  /* headlines on a white background */ 
