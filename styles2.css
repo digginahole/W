@@ -1,24 +1,38 @@
 * {
-    border: 2px solid #aa1212;
+    border: 2px solid #3fdc56;
 
 
-    box-shadow: 4px 4px 20px black;
+    box-shadow: 4px 4px 20px rgb(218, 250, 193);
     
 }
 body {
     background-color: brown;
     color: orange;
     text-decoration-color: red;
-    text-shadow: 5px 4px 3px black;
-    background: linear-gradient(#fff, #ff00ff);
+    text-shadow: 5px 4px 3px rgb(58, 70, 9);
+    background: linear-gradient(rgb(251, 0, 0), #ff00ff);
     text-align:center;
     margin:0 auto 0;
     max-width:auto;
     
 }
-h1, p, h2, h3 {
-    background: linear-gradient(#ff00ff, #00ff00);
+h1, p {
+    background: linear-gradient(10deg, #ff00ff, #00ff00, #fff);
     margin:0 auto 0;
     max-width:fit-content;
     padding:10px 10em;
+    border-radius:10px;
+}
+.passion {
+    background: linear-gradient(#4e0b4e, #095309);
+}
+h3, h2 {
+    background: linear-gradient(300deg, #1a1381, #ca9252, #a36012);
+    margin:0 auto 0;
+    max-width:fit-content;
+    padding:10px 10em;
+    border-radius:10px;
+}
+img {
+    border-radius:50%;
 }
