@@ -20,4 +20,5 @@ h1, p, h2, h3 {
     background: linear-gradient(#ff00ff, #00ff00);
     margin:0 auto 0;
     max-width:fit-content;
+    padding:10px 10em;
 }
