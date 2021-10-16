@@ -1,0 +1,18 @@
+.stank {
+    color:#8e3fc7;
+    background-color: #555;
+    
+    text-shadow:1px 1px 1px #222;
+    box-shadow: 2px 2px 2px #121212;
+    max-width: fit-content;
+    border-radius:3px;
+    border-bottom: 2px solid #333;
+    border-right: 2px solid #444;
+    border-left: 2px solid #666;
+    border-top: 2px solid #777;
+    
+}
+.teetle {
+    text-align: center;
+    
+}
