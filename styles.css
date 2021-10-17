@@ -1,11 +1,61 @@
-body {
-background-color:bisque;
-text-align:center;
-
-
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    margin-top: 10px;
 }
-header {
-    Border-color:olive;
 
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+}
+            
+body {
+    background-color: #fcfbfb;
+    font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0;
+    text-align:center;
+    
+}
 
+nav a {
+    background-color:#393f52;
+    text-decoration: none;
+    color: #fcfbfb;
+    text-align: center;
+    padding: 35px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+}
+.book, .join {
+    background-color: #d9c2a3;
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-color:2px #393f52;
+    border-radius: 5px;
+}
+.card-img {
+    border: 10px solid #d9c2a3;
+}
+main section img {
+    box-sizing: border-box;
+}
+.rivers-card, .camping-card, .rapids-card{
+    margin: 200px 0;
+}
+footer {
+    margin-top: 200px;
+}
+.icon {
+    padding-top: 10px;
 }
