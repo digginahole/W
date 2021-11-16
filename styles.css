@@ -257,7 +257,7 @@ footer a:hover {
 /*form css*/
 form {
   /* Center the form on the page */
-  margin: 0 auto;
+  margin:200px auto 0 auto;
   width: 500px;
   /* Form outline */
   padding: 1em;
